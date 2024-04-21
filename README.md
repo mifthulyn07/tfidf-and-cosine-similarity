@@ -1,5 +1,5 @@
 # TF-IDF and Cosine Similarity #
-This repository is part of the code I have explained through my Medium articles. It contains my learning journey in programming, starting from 2019 to the present.
+This repository is part of the code I have explained through my Medium articles about TF-IDF and Cosine Similarity Algorithm.
 
 For a detailed explanation of the code and concepts, please refer to my Medium articles:
 
@@ -10,4 +10,4 @@ Feel free to explore the repository](https://medium.com/@mifthulyn07/comparing-t
 You can reach me at mifthulyn07@gmail.com, if you have any questions or just want to connect.
 
 # Demo #
-![Screenshot 2024-04-20 073544](https://github.com/mifthulyn07/tfidf-and-cosine-similarity/assets/84966642/6058364e-779e-40d6-95cf-86a133d1999d)
+![Screenshot 2024-04-20 0735yy44](https://github.com/mifthulyn07/tfidf-and-cosine-similarity/assets/84966642/6ba04717-e2cc-45e3-bbf8-2a4d9c09241e)
